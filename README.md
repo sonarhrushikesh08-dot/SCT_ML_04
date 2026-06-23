@@ -57,4 +57,4 @@ pip install -r requirements.txt
 👨‍💻 Author
 - Hrushikesh Sonar  
 - Internship Project: Hand Gesture Recognition System  
-- Domain: Computer Vision + Deep Learning  
+ 
